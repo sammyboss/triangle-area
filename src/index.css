@@ -1,0 +1,24 @@
+.span{
+  font-size: 14px;
+  color: black;
+  background-color: pink;
+  padding: 5px;
+  margin-left: 15px;
+  width: 100px;
+  box-sizing: border-box;
+  
+  
+  
+}
+.display{
+  display: flex;
+}
+body{
+  background-color: aquamarine;
+  
+}
+.container{
+  padding: 16px;
+  box-shadow: none;
+  
+}
